@@ -1,4 +1,6 @@
 # project
+Assignment for FIT3077 - Software Architecture and Design
+William Ho and Rebecca Nga
 
 All files are located within the file src with the file path untitled > src.
 Document files for Assignment 2 is located under Assignment2Docs, whereas
