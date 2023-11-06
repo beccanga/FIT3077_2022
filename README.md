@@ -1,5 +1,7 @@
 # project
-Assignment for FIT3077 - Software Architecture and Design
+FIT3077 - Software Architecture and Design Assignment
+
+Assignment Team: 
 
 William Ho and Rebecca Nga
 
